@@ -1,0 +1,11 @@
+.block {
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+}
+.block2 {
+    background-color: yellow;
+    width: 200px;
+    height: 200px;
+}
